@@ -1,7 +1,7 @@
 <h1>goku</h1>
 
 <h2>Created by</h2>
-<p>
+<h4>
   Saksham Satpall<br/>
   Joe Kenyon<br/>
-</p>
+</h4>
